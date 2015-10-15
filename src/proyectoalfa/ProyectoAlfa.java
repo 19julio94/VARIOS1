@@ -10,7 +10,7 @@ public class ProyectoAlfa {
         
     float base = 6.0f, area ; //Poño un f por ser de tipo flout, se nn saltame a double que e o principal
     
-    float altura = (float) 3.0;// fago un cast, ponse float ou o tipo a convertir entre parentesis, se nn se pon a f.
+    float altura = (float) 8.0;// fago un cast, ponse float ou o tipo a convertir entre parentesis, se nn se pon a f.
     
     area = base*altura/2;
     
